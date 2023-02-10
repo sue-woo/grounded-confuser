@@ -32,10 +32,10 @@ if (btn) {
 
 var audio;
 var colours = [
-  "/green.mp3?",
-  "/blue.mp3?",
-  "/red.mp3?",
-  "/purple.mp3",
+  "./green.mp3?",
+  "./blue.mp3?",
+  "./red.mp3?",
+  "./purple.mp3",
 ];
 
 function play() {
