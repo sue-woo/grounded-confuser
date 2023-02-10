@@ -13,7 +13,7 @@ Make the "Click me!" button move when the visitor clicks it:
 */
 
 var timer = null;
-
+ 
 const btn = document.querySelector("button"); // Get the button from the page
 // Detect clicks on the button
 if (btn) {
