@@ -32,10 +32,10 @@ if (btn) {
 
 var audio;
 var colours = [
-  "https://cdn.glitch.global/d20a5759-f639-4653-9fe7-972fafdaa8a7/green.mp3?v=1676037998663",
-  "https://cdn.glitch.global/d20a5759-f639-4653-9fe7-972fafdaa8a7/blue.mp3?v=1676037363221",
-  "https://cdn.glitch.global/d20a5759-f639-4653-9fe7-972fafdaa8a7/red.mp3?v=1676038000527",
-  "https://cdn.glitch.global/d20a5759-f639-4653-9fe7-972fafdaa8a7/purple.mp3?v=1676038002623",
+  "/green.mp3?",
+  "/blue.mp3?",
+  "/red.mp3?",
+  "/purple.mp3",
 ];
 
 function play() {
