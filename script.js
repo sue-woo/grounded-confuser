@@ -11,6 +11,8 @@ console.log("Hello 🌎");
 Make the "Click me!" button move when the visitor clicks it:
 - First add the button to the page by following the "Next steps" in the README
 */
+
+const btn = document.querySelector("button");
 var timer = null;
 btn.onclick = function () {
   btn.classList.toggle("dipped");
